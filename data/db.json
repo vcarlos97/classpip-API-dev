@@ -193,7 +193,7 @@
       "49": "{\"Nombre\":\"Demo Claspip\",\"Descripcion\":\"Demo\",\"profesorId\":8,\"id\":49}"
     },
     "Punto": {
-      "1": "{\"Nombre\":\"Aleatorio\",\"Descripcion\":\"Asignado de forma aleatoria (se crea autojjjjjjjjjjjjjjjjjjjjjjjjjjjjjmáticamente)\",\"profesorId\":1,\"id\":1}",
+      "1": "{\"Nombre\":\"Aleatorio\",\"Descripcion\":\"Asignado de forma aleatoria (se crea autojjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjmáticamente)\",\"profesorId\":1,\"id\":1}",
       "3": "{\"Nombre\":\"Redimiento\",\"Descripcion\":\"Por aprobar un examen\",\"profesorId\":1,\"id\":3}",
       "4": "{\"Nombre\":\"Aleatorio\",\"Descripcion\":\"Asignado de forma aleatoria (se crea automáticamente)\",\"profesorId\":8,\"id\":4}",
       "5": "{\"Nombre\":\"Puntualidad\",\"Descripcion\":\"Por estar presente durante los primeros minutos de cada sesión\",\"profesorId\":8,\"id\":5}",
